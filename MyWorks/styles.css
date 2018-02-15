@@ -1,0 +1,16 @@
+body {background-color:khaki;
+}
+hr { color:black;}
+img {display: block;
+     margin:0 auto;
+}
+h1 {
+  text-align:center;
+  color:Black;
+ }
+#Menu {
+  text-align:center;
+}
+#name, #age, #nationality {
+  text-align:center;
+}
